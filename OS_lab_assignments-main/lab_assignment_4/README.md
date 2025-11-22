@@ -9,7 +9,7 @@ This contains four tasks. Follow the instructions below to run each task correct
 1. Navigate to the Task 1 directory:
 
    ```bash
-   cd "C:\Users\YASH\Desktop\OS assignment\OS_assignment4\code\task1"
+   cd "C:\...\OS assignment\OS_assignment4\code\task1"
    ```
 
 ### now run:
@@ -20,7 +20,7 @@ This contains four tasks. Follow the instructions below to run each task correct
 
 ## Task 2 — CPU Scheduling
 
-2 navigate back to C:\Users\YASH\Desktop\OS assignment\OS_assignment4\code by running:
+2 navigate back to C:\...\OS assignment\OS_assignment4\code by running:
 
    ```bash
    cd ..
@@ -47,7 +47,7 @@ now run:
 ### it wont run in any open source compiler so run it in ubuntu by running given command:
 
    ```bash
-    cd /mnt/c/Users/YASH/Desktop/OS assignment/OS_assignment4/code
+    cd /mnt/c/.../OS_assignment4/code
     python3 task4.py
 
    ```
