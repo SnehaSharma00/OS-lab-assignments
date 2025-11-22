@@ -1,18 +1,18 @@
 # Operating System Lab Assignment
 
-*Author:* Sneha Sharma 
-*Roll no.:* 2301010010
-*Course:* ENCS351 - Operating Systems  
-*Program:* B.Tech CSE Core 
+**Author:** Sneha Sharma  
+**Roll no.:** 2301010010
+**Course:** ENCS351 - Operating Systems  
+**Program:** B.Tech CSE Core 
 
 ---
 ## Repository Structure
-*OS assignment*
+**OS assignment**
 - ┣ OS_assignment1
-- ┃ ┣ *process_management.py*
+- ┃ ┣ **process_management.py**
 - ┃ ┗ output.txt
 - ┣ OS_assignment2
-- ┃ ┣ *system_startup.py*
+- ┃ ┣ **system_startup.py**
 - ┃ ┣ process_log.txt
 - ┗ README.md (this file)
 
@@ -33,59 +33,59 @@ OS assignment
 
 ## Setup Instructions
 
-### *1. Prerequisites*
+### **1. Prerequisites**
 - Python 3.x installed on your system.
 - Git installed (optional, if cloning the repo).
 - Optional: VS Code for easy execution and viewing files.
 
 ---
 
-### *2. Clone Repository*
+### **2. Clone Repository**
 
-bash
-git clone https://github.com/Yashmalik2004/OS-assignment.git
+```bash
+git clone https://github.com/SnehaSharma00/OS-lab-assignments.git
 cd "OS assignment"
+```
 
+### **2.1 Assignment 1: Process Creation and Management (OS_assignment1)**
 
-### *2.1 Assignment 1: Process Creation and Management (OS_assignment1)*
+- **File: process_management.py**
+- **Output: output.txt**
 
-- *File: process_management.py*
-- *Output: output.txt*
-
-*Steps to Run*
-## *Windows*
+**Steps to Run**
+## **Windows**
 
 - Open terminal or VS Code.
 
 - Navigate to assignment folder:
 
-bash
+```bash
 cd OS_assignment1
-
+```
 - Run the script:
-bash
+```bash
 python process_management.py
-
+```
 - The program will execute all tasks and create/update output.txt in the same folder.
 
-## *Linux*
+## **Linux**
 
 - Open terminal.
 
 - Navigate to assignment folder:
-bash
+```bash
 cd OS_assignment1
-
+```
 
 - Run the script:
-bash
+```bash
 python3 process_management.py
-
+```
 - Tasks like process creation, command execution, simulated zombie/orphan processes, and process info inspection will run.
 
 - Output will also be saved in output.txt.
 
-*Tasks Covered*
+**Tasks Covered**
 
 - Task 1: Process creation using Python’s multiprocessing
 
@@ -98,47 +98,47 @@ python3 process_management.py
 - Task 5: Simulated process prioritization
 
 
-### *2.2Assignment 2: System Startup Simulation (OS_assignment2)*
+### **2.2Assignment 2: System Startup Simulation (OS_assignment2)**
 
-- *File: system_startup.py*
-- *Output: process_log.txt*
+- **File: system_startup.py**
+- **Output: process_log.txt**
 
-*Steps to Run*
-## *Windows*
+**Steps to Run**
+## **Windows**
 
 - Open terminal or VS Code.
 
 - Navigate to assignment folder:
 
-bash
+```bash
 cd OS_assignment2
-
+```
 
 - Run the script:
 
-bash
+```bash
 python system_startup.py
-
+```
 
 - Output logs of process start and end will be recorded in process_log.txt.
 
-## *Linux*
+## **Linux**
 
 - Open terminal.
 
 - Navigate to assignment folder:
-bash
+```bash
 cd OS_assignment2
-
+```
 
 - Run the script:
-bash
+```bash
 python3 system_startup.py
-
+```
 
 - process_log.txt will contain timestamped logs of process execution.
 
-*Tasks Covered*
+**Tasks Covered**
 
 - Sub-Task 1: Initialize logging for process events
 
@@ -151,31 +151,31 @@ python3 system_startup.py
 
 ## ASSIGNMENT 3:
 
-bash
-cd C:\Users\YASH\Desktop\OS assignment\OS_assignment3\code
-
+```bash
+cd C:\...\OS assignment\OS_assignment3\code
+```
 
 ### task 1:
-bash
+```bash
 python3 code1.py
-
+```
 
 ### task 2:
-bash
+```bash
 python3 code2.py
-
+```
 ### task 3:
-bash
+```bash
 python3 code3.py
-
+```
 ### task 4:
-bash
+```bash
 python3 code4.py
-
+```
 ### task 5:
-bash
+```bash
 python3 code5.py
-
+```
 ***
 
 ## ASSIGNMENT 4:
@@ -190,49 +190,49 @@ This contains four tasks. Follow the instructions below to run each task correct
 
 1. Navigate to the Task 1 directory:
 
-   bash
-   cd "C:\Users\YASH\Desktop\OS assignment\OS_assignment4\code\task1"
-   
+   ```bash
+   cd "C:\...\OS assignment\OS_assignment4\code\task1"
+   ```
 
 ### now run:
 
-  bash
+  ```bash
     python3 task1.py
-  
+  ```
 
 ## Task 2 — CPU Scheduling
 
-2 navigate back to C:\Users\YASH\Desktop\OS assignment\OS_assignment4\code by running:
+2 navigate back to C:\...\OS assignment\OS_assignment4\code by running:
 
-   bash
+   ```bash
    cd ..
    
-   
+   ```
 
 now run:
 
-  bash
+  ```bash
    python3 task2.py
 
-   
+   ```
 
 ## Task 3
 
 1 now run:
 
-   bash
+   ```bash
    python3 task3.py
-   
+   ```
 
 ## Task 4
 
 ### it wont run in any open source compiler so run it in ubuntu by running given command:
 
-   bash
-    cd /mnt/c/Users/YASH/Desktop/OS assignment/OS_assignment4/code
+   ```bash
+    cd /mnt/c/.../OS assignment/OS_assignment4/code
     python3 task4.py
 
-   
+   ```
 
 
 
@@ -246,8 +246,8 @@ now run:
 
 - For Windows, use python command; for Linux, use python3.
 
-## *Contact*
+## **Contact**
 
-*Author: Sneha Shrma*
+**Author: Sneha sharma**
 
-*GitHub: https://github.com/Snehasharma00*
+**GitHub: https://github.com/Snehasharma00**
